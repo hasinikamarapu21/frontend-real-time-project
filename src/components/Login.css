@@ -1,0 +1,10 @@
+.login {
+    text-align: center;
+    padding: 20px;
+  }
+  .login form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
